@@ -56,9 +56,6 @@ const CONFIG = {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    '',
-  ],
   experiences: [
     {
       company: 'Institute of Science Tokyo, joint research with Kosé Corporation',
