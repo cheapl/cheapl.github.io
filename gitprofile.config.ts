@@ -98,23 +98,15 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
+      title: '埋め込み変形グラフの適応的調整による非剛体3次元トラッキングの高速化',
+      conferenceName: 'MIRU',
       journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      authors: '邵 乾瀚，渡辺 義浩',
+      link: '',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        '非剛体3次元トラッキングは，拡張現実においてニーズが高い．また，拡張現実応用では，高い没入感を得るために低い遅延が要求されている．従来手法では，埋め込み変形グラフを利用し，計算の複雑度を軽減できることが示された．しかし，人間が知覚できない程度の低い遅延には，トラッキング速度のさらなる向上が必要である．そこで本研究では，非剛体変形する対象表面の剛体運動であると考えられる領域において，埋め込み変形グラフのノードを適応的に削減する手法を提案する．提案手法は，トラッキングにおける計算コストの低減により，非剛体3次元トラッキングの精度を落とすことなく，約2～4.5倍に高速化できる．',
     },
+    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
@@ -131,11 +123,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
