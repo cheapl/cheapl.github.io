@@ -2,17 +2,13 @@
 
 const CONFIG = {
   github: {
-    username: 'cheapl', // Your GitHub org/user name. (This is the only required config)
+    username: 'cheapl', 
   },
-  /**
-   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
-   * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
-   */
+  
   base: '/',
   projects: {
     github: {
-      display: false, // Display GitHub projects?
+      display: false, 
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -111,12 +107,7 @@ const CONFIG = {
     },
     
   ],
-  // Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: '', // to hide blog section, keep it empty
-    limit: 2, // How many articles to display. Max is 10.
-  },
+  
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
@@ -188,8 +179,6 @@ const CONFIG = {
     },
   },
 
-  // Optional Footer. Supports plain text or HTML.
-  footer: ``,
 
   enablePWA: true,
 };
