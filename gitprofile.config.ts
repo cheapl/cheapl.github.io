@@ -76,10 +76,16 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'TOEFL iBT',
+      body: 'score 100',
+      year: 'September 2018',
+      link: '',
+    },
+    {
+      name: 'Japanese-Language Proficiency Test',
+      body: 'N1',
+      year: 'December 2019',
+      link: '',
     },
   ],
   educations: [
