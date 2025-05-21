@@ -50,7 +50,6 @@ const CONFIG = {
   },
   social: {
     linkedin: 'remus-shao',
-    website: 'https://cheapl.github.io/',
     email: 'shao.q.0bf4@m.isct.ac.jp',
   },
   resume: {
