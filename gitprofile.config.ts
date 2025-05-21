@@ -98,7 +98,7 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: '',
+      title: 'Accelerating Non-rigid 3D Tracking by Adaptively Adjusting Embedding Deformation Graph',
       conferenceName: 'MIRU',
       journalName: '',
       authors: 'Qianhan Shao，Yoshihiro Watanabe',
