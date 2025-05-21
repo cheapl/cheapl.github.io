@@ -35,9 +35,7 @@ const CONFIG = {
         {
           title: 'Makeup simulator based on dynamic projection mapping',
           description:
-            'COLOR MACHINE is a system that enables users to experience makeup through dynamic projection mapping onto the face. In this project, I developed a 3D Morphable Model tailored for facial tracking, with a particular focus on improving accuracy for Asian facial features.
-
-',
+            'COLOR MACHINE is a system that enables users to experience makeup through dynamic projection mapping onto the face. In this project, I developed a 3D Morphable Model tailored for facial tracking, with a particular focus on improving accuracy for Asian facial features.',
           imageUrl:
             'https://www.vision.ict.e.titech.ac.jp/projects/ColorMachine/image1.jpg',
           link: 'https://example.com',
