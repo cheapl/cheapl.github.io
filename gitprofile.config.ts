@@ -51,7 +51,6 @@ const CONFIG = {
   social: {
     linkedin: 'remus-shao',
     website: 'https://cheapl.github.io/',
-    email: 'shao.qianhan@outlook.com',
     email: 'shao.q.0bf4@m.isct.ac.jp',
   },
   resume: {
@@ -68,18 +67,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Institute of Science Tokyo, joint research with Kosé Corporation',
+      position: 'Research assistant',
+      from: 'September 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
   ],
   certifications: [
@@ -127,7 +119,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
