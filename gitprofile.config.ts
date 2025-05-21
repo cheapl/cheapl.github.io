@@ -38,7 +38,7 @@ const CONFIG = {
             'COLOR MACHINE is a system that enables users to experience makeup through dynamic projection mapping onto the face. In this project, I developed a 3D Morphable Model tailored for facial tracking, with a particular focus on improving accuracy for Asian facial features.',
           imageUrl:
             'https://www.vision.ict.e.titech.ac.jp/projects/ColorMachine/image1.jpg',
-          link: 'https://example.com',
+          link: 'https://maison.kose.co.jp/mixedrealitymakeup/',
         },
       ],
     },
@@ -49,46 +49,22 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'remus-shao',
+    website: 'https://cheapl.github.io/',
+    email: 'shao.qianhan@outlook.com',
+    email: 'shao.q.0bf4@m.isct.ac.jp',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'Python',
+    'C/C++',
+    'PyTorch',
+    'CUDA',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
