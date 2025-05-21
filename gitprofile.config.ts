@@ -33,26 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Makeup simulator based on dynamic projection mapping',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'COLOR MACHINE is a system that enables users to experience makeup through dynamic projection mapping onto the face. In this project, I developed a 3D Morphable Model tailored for facial tracking, with a particular focus on improving accuracy for Asian facial features.
+
+',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.vision.ict.e.titech.ac.jp/projects/ColorMachine/image1.jpg',
           link: 'https://example.com',
         },
       ],
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Remus Shao',
     description: '',
     imageURL: '',
   },
