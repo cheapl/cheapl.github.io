@@ -90,16 +90,22 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Institute of Science Tokyo',
+      degree: 'Ph.D.',
+      from: '',
+      to: '2027/03',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Institute of Science Tokyo',
+      degree: 'Master',
+      from: '',
+      to: '2023/09',
+    },
+    {
+      institution: 'ShanghaiTech University',
+      degree: 'Bachelor',
+      from: '',
+      to: '2019/06',
     },
   ],
   publications: [
