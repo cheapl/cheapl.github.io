@@ -98,13 +98,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: '埋め込み変形グラフの適応的調整による非剛体3次元トラッキングの高速化',
+      title: '',
       conferenceName: 'MIRU',
       journalName: '',
-      authors: '邵 乾瀚，渡辺 義浩',
-      link: '',
+      authors: 'Qianhan Shao，Yoshihiro Watanabe',
+      link: 'https://www.vision.ict.e.titech.ac.jp/projects/trk_deform/index-j.html',
       description:
-        '非剛体3次元トラッキングは，拡張現実においてニーズが高い．また，拡張現実応用では，高い没入感を得るために低い遅延が要求されている．従来手法では，埋め込み変形グラフを利用し，計算の複雑度を軽減できることが示された．しかし，人間が知覚できない程度の低い遅延には，トラッキング速度のさらなる向上が必要である．そこで本研究では，非剛体変形する対象表面の剛体運動であると考えられる領域において，埋め込み変形グラフのノードを適応的に削減する手法を提案する．提案手法は，トラッキングにおける計算コストの低減により，非剛体3次元トラッキングの精度を落とすことなく，約2～4.5倍に高速化できる．',
+        'We propose a method to adaptively reduce the number of nodes in the embedded deformation graph in regions that are considered to be rigid motion on the surface of a non-rigidly deforming object. The proposed method reduces the computational cost of tracking, making it possible to speed up non-rigid 3D tracking by approximately 2 to 4.5 times without sacrificing accuracy.',
     },
     
   ],
