@@ -44,7 +44,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Remus Shao',
+    title: 'Remus Shao',
     description: '',
     imageURL: '',
   },
@@ -93,19 +93,19 @@ const CONFIG = {
       institution: 'Institute of Science Tokyo',
       degree: 'Ph.D.',
       from: '',
-      to: '2027/03',
+      to: 'March 2027',
     },
     {
       institution: 'Institute of Science Tokyo',
       degree: 'Master',
       from: '',
-      to: '2023/09',
+      to: 'September 2023',
     },
     {
       institution: 'ShanghaiTech University',
       degree: 'Bachelor',
       from: '',
-      to: '2019/06',
+      to: 'June 2019',
     },
   ],
   publications: [
@@ -198,11 +198,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: ``,
 
   enablePWA: true,
 };
