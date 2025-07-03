@@ -1,0 +1,52 @@
+{
+  "personalInfo": {
+    "name": "Your Name",
+    "title": "Your Title",
+    "contact": {
+      "email": "you@example.com",
+      "phone": "123-456-7890",
+      "website": "https://example.com",
+      "location": "City, Country"
+    },
+    "image": "https://via.placeholder.com/120",
+    "about": "Short bio or introduction."
+  },
+  "experience": [
+    {
+      "company": "Company A",
+      "role": "Role A",
+      "duration": "2020 - Present",
+      "details": "What you did at Company A."
+    }
+  ],
+  "certification": [
+    {
+      "name": "Certification A",
+      "issuer": "Organization",
+      "date": "2021",
+      "link": "https://example.com/cert"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "degree": "Master",
+      "duration": "2018 - 2020"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project A",
+      "description": "A cool project.",
+      "link": "https://github.com/your/project"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Paper A",
+      "journal": "Journal",
+      "year": "2022",
+      "link": "https://example.com/paper"
+    }
+  ]
+}
